@@ -2,15 +2,11 @@
 
 # 2048实验报告
 
-18373105 童涛
+18373105 童涛 18373676 黎昊轩 https://github.com/LeavesLi1015/deep_learning_final_assignment
 
-18373528 杨凌华
+18373528 杨凌华 https://github.com/LarryHawkingYoung/deep_learning_final_assignment
 
-18373542 胥浩宇
-
-18373676 黎昊轩
-
-（排序为按学号升序，成员贡献度比例为 1:1:1:1）
+18373542 胥浩宇 https://github.com/cpxhylty/deep_learning_final_assignment
 
 
 
